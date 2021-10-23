@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="fire-support_Cal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fire_support_Cal_jar</output-path>
+    <root id="archive" name="fire-support_Cal.jar">
+      <element id="module-output" name="fire-support_Cal" />
+      <element id="file-copy" path="$PROJECT_DIR$/storagedResult.rua" />
+    </root>
+  </artifact>
+</component>
